@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "odnakrasota.ru",
+    "description": "",
+    "home_page_url": "https://egaletsky.github.io/gh-pages",
+    "feed_url": "https://egaletsky.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Галецкая Ольга"
+    },
+    "items": [
+        {
+            "id": "https://egaletsky.github.io/gh-pages/moi-raboty.html",
+            "url": "https://egaletsky.github.io/gh-pages/moi-raboty.html",
+            "title": "Мои работы",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://egaletsky.github.io/gh-pages/media/posts/1/gallery/2023-10-21_11-54-28.png\" data-size=\"741x629\"><img loading=\"lazy\" src=\"https://egaletsky.github.io/gh-pages/media/posts/1/gallery/2023-10-21_11-54-28-thumbnail.png\" alt=\"\" width=\"720\" height=\"611\"></a></figure>\n</div></div>\n",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://egaletsky.github.io/gh-pages/media/posts/1/gallery/2023-10-21_11-54-28.png\" data-size=\"741x629\"><img loading=\"lazy\" src=\"https://egaletsky.github.io/gh-pages/media/posts/1/gallery/2023-10-21_11-54-28-thumbnail.png\" alt=\"\" width=\"720\" height=\"611\"></a></figure>\n</div></div>\n\n<p>ымаымыаи</p>\n<p>авив</p>\n<p>аиваи</p>\n<p>ваи</p>\n<p>ви</p>",
+            "author": {
+                "name": "Галецкая Ольга"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-28T09:05:50+07:00",
+            "date_modified": "2023-11-16T01:06:21+07:00"
+        }
+    ]
+}
